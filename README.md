@@ -1,4 +1,4 @@
-#Instances and computational results for the paper ``Exact and approximation algorithms for the expanding search problem'' by Ben Hermans, Roel Leus, and Jannik Matuschke
+# Instances and computational results for the paper ``Exact and approximation algorithms for the expanding search problem'' by Ben Hermans, Roel Leus, and Jannik Matuschke
 
 The folder `instances' describes the generated instances used for the computational experiments in Section 5 of the paper;
 The folder `results' contains the computational results for the individual instances, the averaging of which led to Tables 1-2 and Figure 4 in the paper.
@@ -7,7 +7,7 @@ The different (sub)folders and the structure of the contained files are describe
 
 
 
-##instances
+## instances
 
 * coordinates: 
 	In file `coordinates_nA_repB.dat', row i gives the x-, y-, and z-coordinate of vertex i for 
@@ -27,7 +27,7 @@ are not included in this folder, but can be obtained via the repository https://
 
 
 
-##results
+## results
 
 * bounds:
 	These files give the computational results used to construct Figure 4 in the paper.
